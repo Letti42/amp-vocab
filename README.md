@@ -6,6 +6,6 @@
 
 <samp> If you have anymore questions, you know who to reach 🙂 </samp>
 
-<a href="https://github.com/Letti42/amp-vocab/answer.js">
+<a href="https://raw.githubusercontent.com/Letti42/amp-vocab/main/answers.js">
   <code> Find the hack HERE </code>
 </a>
