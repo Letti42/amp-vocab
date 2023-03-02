@@ -5,3 +5,7 @@
 <h4> Just start an activity, open the Javascript console, paste this in and press enter! Works like magic! </h4>
 
 <samp> If you have anymore questions, you know who to reach 🙂 </samp>
+
+<a href="https://github.com/Letti42/amp-vocab/answer.js">
+  <code> Find the hack HERE </code>
+</a>
